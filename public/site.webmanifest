@@ -1,0 +1,16 @@
+{
+  "name": "Sementes do Futuro",
+  "short_name": "Sementes do Futuro",
+  "description": "Pequenas sementes, grandes futuros.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBFAF7",
+  "theme_color": "#FBFAF7",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
